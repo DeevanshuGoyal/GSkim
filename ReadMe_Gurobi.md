@@ -1,4 +1,4 @@
-Running Gurobi using conda environments
+**Running Gurobi using conda environments**
 
 Here is a short and useful guide on how to install Gurobi and run it anywhere in your machine, irrespective of the location of the license installation.
 
