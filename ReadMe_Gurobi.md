@@ -1,6 +1,6 @@
 **Running Gurobi using conda environments**
 
-Here is a short and useful guide on how to install Gurobi and run it anywhere in your machine, irrespective of the location of the license installation.
+Here is a short and useful workaround on how to install Gurobi and run it anywhere in your machine, irrespective of the location of the license installation.
 
 1. Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html) (you can skip this if you already have either of Miniconda or Anaconda installed).
 2. Create a conda environment by running the following command ;
